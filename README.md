@@ -1,4 +1,4 @@
-mediator
+Discord: https://discord.gg/nZwmP9NKr4
 ========
 
 A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme
